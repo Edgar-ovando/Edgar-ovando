@@ -1,38 +1,83 @@
-Hi there, I'm Edgar Ovando 👋
+<h1>Hi there, I'm Edgar Ovando 👋</h1>
+<h3 align="center">💻 Software Engineer | Java + SpringBoot | Backend & FrontEnd</h3>
 
-💻 Software Engineer | Java + SpringBoot | Backend & FrontEnd
+---
 
-👨🏻‍💻 About Me
-💼 Currently working on Backend Features using Java + SpringBoot
-📚 Actively learning SpringBoot, JavaRx, and strengthening Java skills
-🤝 Open to collaborate on Software Develompent process.
-🧪 Passionate about ensuring software quality, from UI to backend
+### 👨🏻‍💻 About Me
 
-🛠️ Languages & Tools
-🚀 Programming & Automation
-Java, SpringBoot, JavaRx, WebFlux, JWT, Maven, SQL, OracleDB.  
-    
-🔧 Collaboration & Version Control
-Github, Git, Jenkins, Docker, Azure DevOps, AWS.
-   
-🧰 QA Competencies
-TestNG, Selenium, RestAssured. 
+- 💼 Currently working on **Software Development ** using `Java` + `SpringBoot`
+- 📚 Actively learning `SpringBoot`, `JavaRx`, and strengthening `Java` skills
+- 🤝 Open to collaborate on **Software Development Projects**
+- 🧪 Passionate about ensuring software quality, from UI to backend
+
+---
+
+### 🛠️ Languages & Tools
+
+#### 🚀 Programming & Automation
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=javarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+#### 🚀 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+#### 🔧 Collaboration & Version Control
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
+
+---
+#### 🧰 QA Competencies
+<p>
+  <img src="https://img.shields.io/badge/Manual Testing-007ACC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation Testing-FF5733?style=for-the-badge"/>
+</p>
+
+---
+
+### 🎓 Certifications
+
+- 🏅 *Introduction to Automated Testing in Java* - **EPAM Campus**
+- 📘 *Project Management and Fundamentals of Agile Methodology*
+- 🐍 *Python Essentials 1* - **CISCO Networking Academy**
+- 🧠 *Python 101 for Data Science* - **IBM**
+- 🌐 *CCNAv7: Enterprise Networking, Security, and Automation* - **CISCO**
+
+---
 
 
-🎓 Certifications
-🏅 Java Programming Language - Udemy
-📘 SpringBoot - Youtube
 
-💬 Let’s Connect!
-📫 Email: edgaar.miguell@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/edgar-miguel-flores-ovando-06b010113/
+### 💬 Let’s Connect!
+
+- 📫 Email: **edgaar.miguell@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/edgar-miguel-flores-ovando-06b010113/
+
+---
+
+### 😄 Fun Facts
+
+- 🧠 I love understanding how systems break — then fixing them better!
+- 🐛 Favorite bug: the one that teaches me the most.
+- 🏃‍♂️ I like running and staying active
+- 🎮 Big fan of video games (especially competitive ones!)
+- 📚 I enjoy reading and learning new things outside tech
+- 🏋️‍♂️ I love sports and fitness routines
+
+---
 
 
-😄 Fun Facts
-🧠 I love understanding how systems break — then fixing them better!
-🐛 Favorite bug: the one that teaches me the most.
-🏃‍♂️ I like running and staying active
-🎮 Big fan of video games (especially competitive ones!)
-📚 I enjoy reading and learning new things outside tech
-🏋️‍♂️ I love sports and fitness routines
 
