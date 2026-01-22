@@ -1,15 +1,38 @@
 Hi there, I'm Edgar Ovando 👋
 
-**Edgar-ovando/Edgar-ovando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | Java + SpringBoot | Backend & FrontEnd
 
-Here are some ideas to get you started:
+👨🏻‍💻 About Me
+💼 Currently working on Backend Features using Java + SpringBoot
+📚 Actively learning SpringBoot, JavaRx, and strengthening Java skills
+🤝 Open to collaborate on Software Develompent process.
+🧪 Passionate about ensuring software quality, from UI to backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🛠️ Languages & Tools
+🚀 Programming & Automation
+Java, SpringBoot, JavaRx, WebFlux, JWT, Maven, SQL, OracleDB.  
+    
+🔧 Collaboration & Version Control
+Github, Git, Jenkins, Docker, Azure DevOps, AWS.
+   
+🧰 QA Competencies
+TestNG, Selenium, RestAssured. 
+
+
+🎓 Certifications
+🏅 Java Programming Language - Udemy
+📘 SpringBoot - Youtube
+
+💬 Let’s Connect!
+📫 Email: edgaar.miguell@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/edgar-miguel-flores-ovando-06b010113/
+
+
+😄 Fun Facts
+🧠 I love understanding how systems break — then fixing them better!
+🐛 Favorite bug: the one that teaches me the most.
+🏃‍♂️ I like running and staying active
+🎮 Big fan of video games (especially competitive ones!)
+📚 I enjoy reading and learning new things outside tech
+🏋️‍♂️ I love sports and fitness routines
 
