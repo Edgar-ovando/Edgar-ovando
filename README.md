@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Edgar Ovando 👋</h1>
-<h3 align="center">💻 Software Engineer | Java + SpringBoot | Backend & FrontEnd</h3>
+<h3 align="center">💻 Software Engineer | Java + SpringBoot | </h3>
 
 ---
 
